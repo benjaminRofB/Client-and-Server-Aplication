@@ -1,0 +1,7 @@
+E:\NEW LIFE\APPS\Client and Server Aplication\Client and Server Aplication\bin\Debug\Client and Server Aplication.exe.config
+E:\NEW LIFE\APPS\Client and Server Aplication\Client and Server Aplication\bin\Debug\Client and Server Aplication.exe
+E:\NEW LIFE\APPS\Client and Server Aplication\Client and Server Aplication\bin\Debug\Client and Server Aplication.pdb
+E:\NEW LIFE\APPS\Client and Server Aplication\Client and Server Aplication\obj\Debug\Client.csprojAssemblyReference.cache
+E:\NEW LIFE\APPS\Client and Server Aplication\Client and Server Aplication\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\NEW LIFE\APPS\Client and Server Aplication\Client and Server Aplication\obj\Debug\Client and Server Aplication.exe
+E:\NEW LIFE\APPS\Client and Server Aplication\Client and Server Aplication\obj\Debug\Client and Server Aplication.pdb

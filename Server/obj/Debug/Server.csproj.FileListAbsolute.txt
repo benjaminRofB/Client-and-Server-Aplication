@@ -1,0 +1,6 @@
+E:\NEW LIFE\APPS\Client and Server Aplication\Server\bin\Debug\Server.exe.config
+E:\NEW LIFE\APPS\Client and Server Aplication\Server\bin\Debug\Server.exe
+E:\NEW LIFE\APPS\Client and Server Aplication\Server\bin\Debug\Server.pdb
+E:\NEW LIFE\APPS\Client and Server Aplication\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\NEW LIFE\APPS\Client and Server Aplication\Server\obj\Debug\Server.exe
+E:\NEW LIFE\APPS\Client and Server Aplication\Server\obj\Debug\Server.pdb
